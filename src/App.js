@@ -5,7 +5,6 @@ const App = () => {
     <>
       <h1>Lambda Eats</h1>
       <p>Lambda Eats Menu and order online!</p>
-      <p>Order!</p>
     </>
   );
 };
